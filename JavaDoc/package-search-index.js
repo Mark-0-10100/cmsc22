@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mainProjectPackage"},{"l":"com.mainProjectPackage.rewardSystem"},{"l":"com.mainProjectPackage.rewardSystem.habitTable"},{"l":"com.mainProjectPackage.rewardSystem.rewardMarketAndInventory"},{"l":"com.mainProjectPackage.Templates"}];updateSearchResults();
